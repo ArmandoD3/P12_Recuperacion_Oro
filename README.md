@@ -6,7 +6,7 @@ Análisis de datos para identificar anomalías (concentraciones de metales cerca
 Preprocesamiento de datos con manejo de valores nulos (usando ffill y bfill).
 Modelado con el entrenamiento y evaluación de modelos de regresión lineal y de conjunto (árboles de decisión y bosques aleatorios).
 
-# 🛠️ Tecnologías Usadas
+## 🛠️ Tecnologías Usadas
 Python: Lenguaje de programación principal.
 Pandas: Manipulación y análisis de datos.
 NumPy: Soporte para arrays y cálculos numéricos.
